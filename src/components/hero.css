@@ -1,0 +1,15 @@
+.hero-carou {
+max-width: 1305px!important;
+height: 500px;
+display: flex;
+align-items: center;
+    justify-content: center;
+background-color: red;
+
+}
+
+.hero-carou .titlequiz {
+font-size: 55px;
+color: white;
+font-family: 'Abril Fatface', cursive;
+}

@@ -1,38 +1,38 @@
-.App {
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.containerquiz {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-image: url('https://img.freepik.com/free-photo/geometric-background-with-copy-space_24972-1859.jpg?w=900&t=st=1669912017~exp=1669912617~hmac=6e409e00d3546e4721bffbcbaf860eb3020ec57be8c8377d41fbd9417905a313');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+
+.containerquiz .card {
+  max-width: 400px;
+  width: 100%;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+label.radio {
+  display: block;
+  text-align: left;
+  padding: 15px;
+  margin-bottom: 5px;
+  font-size: 20px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+label.radio+.radio {
+  margin-left: 0;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+label.radio input {
+  margin-right: 10px;
 }

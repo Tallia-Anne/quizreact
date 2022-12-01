@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "question": "1-Fairy Tail- Qui est Lucy ?",
+            "choices": ["Une mage", "Une sorcière", "Une constelassionniste", "chai pas"],
+            "answer": "Une constelassionniste"
+        },
+        {
+            "question": "2-Fairy Tail- Qui e crée le manga ?",
+            "choices": ["Tite Kubo", "Takeshi Oba", "Hiro Mashima", "Hiroki Arachi"],
+            "answer": "Takeshi Oba"
+        },
+        {
+            "question": "3-One piece- Qui est le docteur dans l'équipage ?",
+            "choices": ["Chopper", "Sanji", "Luffy", "Robin"],
+            "answer": "Chopper"
+        },
+        {
+            "question": "4-One piece- Durant l'enfance de Luffy, Shanks le Roux lui donna ... ",
+            "choices": ["Son bras", "Son fruit du Démon", "Son chapeau de paille", "Son haki"],
+            "answer": "Son chapeau de paille"
+        },
+        {
+            "question": "5-Naruto shippuden- Naruto revient d'un entraînement avec... ?",
+            "choices": ["Minato", "Jiraya", "Kakashi", "Iruka"],
+            "answer": "Jiraya"
+        },
+        {
+            "question": "6-Naruto shippuden- Orochimaru est tué par ... ?",
+            "choices": ["Tsunade", "Jiraya", "Sasuke", "Itachi"],
+            "answer": "Sasuke"
+        },
+        {
+            "question": "7-My Hero Academia- Quel est l'Alter de Mina Ashido ?",
+            "choices": ["Invisibilité", "Création", "Minimax", "Acide"],
+            "answer": "Acide"
+        },
+        {
+            "question": "8-My Hero Academia- Quel est l'Alter de Mina Ashido ?",
+            "choices": ["Sajin Higawara", "Nitra", "Gran Torino", "Poprad"],
+            "answer": "Gran Torino"
+        },
+        {
+            "question": "9-One piece- En quittant l'île de Sirop, l'équipage de Luffy se voit offrir un bateau, nommé ",
+            "choices": ["Le vogue Merry", "Le merry christmas", "Le Bloody Mary", "Le vierge Marie"],
+            "answer": "Le vogue Merry"
+        },
+        {
+            "question": "10-One piece- Arlong est un",
+            "choices": ["Homme-sirène", "Homme-grenouille", "Homme-poisson", "Détenteur de Zoan"],
+            "answer": "Homme-poisson"
+        }
+    ]
+}
