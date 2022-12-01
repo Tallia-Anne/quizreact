@@ -58,7 +58,7 @@ import { CDBFooter, CDBFooterLink, CDBBox, CDBBtn, CDBIcon } from 'cdbreact';
                         </CDBBox>
                     </CDBBox>
                 </CDBBox>
-                <small className="text-center mt-5">&copy; Devwares, 2020. All rights reserved.</small>
+                <small className="text-center mt-5">&copy; Devwares, 2020. All rights reserved.Tallia-Anne Wambiekele</small>
             </CDBBox>
         </CDBFooter>
     );
