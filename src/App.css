@@ -36,3 +36,11 @@ label.radio+.radio {
 label.radio input {
   margin-right: 10px;
 }
+label.radio input:hover {
+  margin-right: 20px;
+  
+}
+.has-background-light:hover {
+    background-color: #b8b6b6!important;
+    
+}
