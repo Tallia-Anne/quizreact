@@ -44,6 +44,9 @@ const Question = ({ data, onAnswerUpdate, numberOfQuestions, activeQuestion, onS
                 <div className="content">
                     {/* le titre de question */}
                     <h2 className="mb-5">{data.question}</h2>
+                    <div className="imagebox">
+                        <img src={data.image} alt="" />
+                    </div>
                     <div className="control" ref={radiosWrapper}>
                         {/* les choices pour repondre a la question */}
                         {data.choices.map((choice, i) => (
