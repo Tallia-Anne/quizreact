@@ -126,10 +126,10 @@
             "answer": "Sanemi"
         },
          {
-            "question": "My Hero Academia- Quel est l'Alter de Mina Ashido ?",
-            "image":"https://img.lemde.fr/2022/01/27/0/0/1800/1013/664/0/75/0/a1e02c8_917831125-myheroacademia.jpg",
-            "choices": ["Invisibilité", "Création", "Minimax", "Acide"],
-            "answer": "Acide"
+            "question": "My Hero Academia- À l'issue de l'examen de mi-trimestre, Bakugo est arrivé...",
+            "image":"https://www.serieously.com/app/uploads/2021/04/mha-bakugo-kirishima-examens.jpeg",
+            "choices": ["Troisième", "Neuvième", "Seizième"],
+            "answer": "Troisième"
         },
         {
             "question": "Tokyo Revengers- Le leader du gang Moebius est Hanma Shûji",
@@ -177,6 +177,7 @@
 
         {
             "question": "Naruto shippuden- Orochimaru est tué par ... ?",
+            "image":"https://www.serieously.com/app/uploads/2022/06/orochimaru-naruto-4.jpg",
             "choices": ["Tsunade", "Jiraya", "Sasuke", "Itachi"],
             "answer": "Sasuke"
         },
@@ -243,20 +244,20 @@
         
         {
             "question": "Kuroko's basket- Qui est ce personnage ? ",
-            "image":"https://static.wikia.nocookie.net/kurokosbasket/images/9/9b/Tetsuya_Kuroko_anime.png/revision/latest/scale-to-width-down/228?cb=20150321212036&path-prefix=fr",
+            "image":"https://www.serieously.com/app/uploads/2022/03/kuroko-4.jpg",
             "choices": ["Riko Aida", "Taiga Kagami", "Tetsuya", "Shinji Koganei"],
             "answer": "Tetsuya"
         },
          {
             "question": "Qui causa la perte de la mère d'Ichigo ? ",
-            "image":"https://static.wikia.nocookie.net/kurokosbasket/images/9/9b/Tetsuya_Kuroko_anime.png/revision/latest/scale-to-width-down/228?cb=20150321212036&path-prefix=fr",
+            "image":"https://www.serieously.com/app/uploads/2022/10/bleach-ichigo.jpg",
             "choices": ["Aizen", "Ywatch", "White", "Black"],
-            "answer": ["Aizen" ,"Ywatch"]
+            "answer": ["Aizen" ]
         },
 
         {
             "question": "Fairy tail- Comment s'appelle le chat de Natsu  ? ",
-            "image":"https://static.wikia.nocookie.net/fairy-tail/images/f/f2/Slider_Manga.png/revision/latest?cb=20170411180557&path-prefix=fr",
+            "image":"https://www.serieously.com/app/uploads/2021/10/happy-happy.jpg",
             "choices": ["Bad", "Happy", "Sad", "Angry"],
             "answer": "Happy"
         },
