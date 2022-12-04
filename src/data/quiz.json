@@ -189,6 +189,7 @@
         },
         {
             "question": "My Hero Academia- Quel est l'Alter de Mina Ashido ?",
+            "image":"https://images6.alphacoders.com/715/715571.png",
             "choices": ["Sajin Higawara", "Nitra", "Gran Torino", "Poprad"],
             "answer": "Gran Torino"
         },
