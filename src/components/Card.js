@@ -1,19 +1,16 @@
-import Button from 'react-bootstrap/Button';
-import Card from 'react-bootstrap/Card';
+// import Button from 'react-bootstrap/Button';
+import './css/cardblog.css'
 
-function BasicExample(data) {
+function BasicExample(scan) {
     return (
-        <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src={data.image} />
-            <Card.Body>
-                <Card.Title>{data.title}</Card.Title>
-                <Card.Text>
-                    Some quick example text to build on the card title and make up the
-                    bulk of the card's content.
-                </Card.Text>
-                <Button variant="primary">Go somewhere</Button>
-            </Card.Body>
-        </Card>
+        <>
+            <div class="cardblog 1">
+                <div class="card_image"> <img src={scan.image} alt="imag" /> </div>
+                <div class="card_title title-white">
+                    <p>{scan.title}</p>
+                </div>
+            </div>
+        </>
     );
 }
 

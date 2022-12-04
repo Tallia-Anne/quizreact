@@ -1,16 +1,13 @@
-import Card from './Card'
-import scans from '../data/scan.json';
+import Heroblog from './Heroblog';
+import Sectioncardscan from './Sectioncardscan';
+
 const Sitesanimes = () => {
     
     return (
-        <div>Siteanime
-            {
-                scans.map((scan) =>
-
-                    <Card name={scan.title} image={scan.image} />
-
-                )
-            }
+        <div className='sitescan' >
+            <Heroblog/>
+            <Sectioncardscan/>
+            
         </div>
 )
     
