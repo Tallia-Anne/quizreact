@@ -7,7 +7,7 @@ function BasicExample(scan) {
             <div class="cardblog 1">
                 <div class="card_image"> <img src={scan.image} alt="imag" /> </div>
                 <div class="card_title title-white">
-                    <p>{scan.title}</p>
+                    <a href={scan.liens}> <p>{scan.title}</p></a> 
                 </div>
             </div>
         </>

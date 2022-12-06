@@ -1,11 +1,12 @@
 .cardblog {
   margin: 30px auto;
-  width: 350px;
+  width: 490px;
   height: 300px;
   border-radius: 40px;
 box-shadow: 0 0 4px 2px;
   cursor: pointer;
   transition: 0.4s;
+gap: 12px;
 }
 
 .cardblog .card_image {
